@@ -26,9 +26,18 @@ This project implements Explainable AI in self driving cars by the use of post-h
 
 ## Additional Resources
 
-- **Udacity Nanodegree Program**: The simulation environment used is part of the Udacity Nanodegree program. For more details and to download visit [Udacity Nanodegree Program]([https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889](https://udacity.com/drive)).
+- **Udacity Nanodegree Program**: The simulation environment used is part of the Udacity Nanodegree program. For more details and to download visit [Udacity Nanodegree Program](https://udacity.com/drive)
+  and to download-
+
+
+  [Linux](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-linux.zip)
+
+  [Mac](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-mac.zip)
+
+  [Windows](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip).
 
 - **AirSim Simulator**: For simulation purposes, download the AirSim simulator from [AirSim GitHub Repository](https://github.com/microsoft/AirSim).
 
 
 ---
+Both simulation environments are open-source.
