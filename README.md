@@ -8,7 +8,7 @@ This project implements Explainable AI in self driving cars by the use of post-h
 
 1. **model_training.py**: Python script for training the machine learning model.
 2. **drive.py**: Python script to run the trained model in a simulation environment.
-3. **limepro.py**: Python script demonstrating LIME (Local Interpretable Model-agnostic Explanations) for explaining model predictions.
+3. **limepro.py**: Python script demonstrating LIME (Local Interpretable Model-agnostic Explanations) for explaining model predictions
 4. **object_detection.py**: Python script for performing object detection tasks.
 
 ## Usage
